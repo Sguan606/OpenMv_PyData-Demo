@@ -1,5 +1,7 @@
 # OpenMv_PyData-Dmeo
 It mainly revolves around image processing, color detection, and circle detection, using the OpenMV camera module and Python programming. Part of the code also incorporates a Kalman filter for target tracking and prediction.
+![IMG_1931](https://github.com/user-attachments/assets/0d6707bc-560b-4f3a-b3bc-b52fc2542495)
+
 
 
 1.【max_mindata】YuanXin_to_Color.py
